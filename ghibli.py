@@ -355,7 +355,7 @@ class GhibliHandler(BaseHTTPRequestHandler):
                              b"</html>")
 
 ###############################################################################
-#                                   Tests                                     #
+#                                Unit Tests                                   #
 ###############################################################################
 
 
@@ -400,7 +400,7 @@ if __name__ == '__main__':
     # Now let's create the http server
     print("Starting server :")
     GhibliHandler._cache = cache
-    httpd = ThreadingHTTPServer(('127.0.0.1', 8080), GhibliHandler)
+    httpd = ThreadingHTTPServer(('127.0.0.1', 8000), GhibliHandler)
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
