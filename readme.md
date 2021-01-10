@@ -38,7 +38,7 @@ Pour quitter le serveur vous devez faire Ctrl+C sur le terminal.
 
 Il y'a d'autre informations sous forme de commentaire dans le code.
 
-# Test unitaire
+## Test unitaire
 
 Je n'ai pas beacoup ecrit de tests unitaires mais j'ai mis un exemple de test pour
 le code du Thread qui met a jour les données toutes les x secondes.
