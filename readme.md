@@ -75,3 +75,4 @@ Bien sur le taux de couverture des tests unitaires est ridicule, en temps normal
 couvrir tout le code.
 
 J'éspere que vous prendrez plaisir a lire le code.
+
