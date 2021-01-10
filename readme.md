@@ -57,7 +57,7 @@ Ran 2 tests in 0.302s
 OK
 ```
 
-# Conclusion
+## Conclusion
 Je pense avoir passez trop de temps dessus :D, je me suis laissé prendre par le jeu.
 
 Il y'a plein d'elements à améliorer dans le code. La premiere est d'éclater le code
